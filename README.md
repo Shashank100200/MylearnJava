@@ -1,2 +1,3 @@
 # MylearnJava
-Author Shashank B N
+Author Shashank (Reva University)
+

@@ -28,19 +28,21 @@ import java.util.Scanner;
 //    }
 //}
 
-//public class java {
+//public class java{
 //    public static void main(String[] args){
 //        Scanner x = new Scanner(System.in);
-//        System.out.print("Enter the age:");
+//        System.out.println("Enter the age of the person :");
 //        int age = x.nextInt();
-//        if (age>18){
-//            System.out.println("Yor are Adult");
-//        }
-//        else{
-//            System.out.println("You are not Adult");
+//        if(age > 18 || age == 18) {
+//            System.out.println("Eligible to Vote");
+//        }else if(age < 18){
+//            System.out.println("Not Eligible to Vote");
+//        }else{
+//            System.out.println("Incorrect enter");
 //        }
 //    }
 //}
+
 
 //public class java {
 //    public static void main(String[] args){
@@ -51,7 +53,7 @@ import java.util.Scanner;
 //            System.out.println("It is an odd number");
 //        }
 //        else{
-//            System.out.println("Its not an odd number");
+//            System.out.println("It is not an odd number");
 //        }
 //
 //    }
@@ -102,6 +104,27 @@ import java.util.Scanner;
 //
 //
 //}
+
+//public class java{
+//    public static void main(String[] args){
+//        Scanner x = new Scanner(System.in);
+//        System.out.println("Press the Button :");
+//        int button = x.nextInt();
+//
+//        switch(button){
+//            case 1 : System.out.println("Hello Iron Man");
+//            break;
+//            case 2 : System.out.println("Namaste Iron Man");
+//            break;
+//            case 3 : System.out.println("Bonjure Iron Man");
+//            break;
+//            default : System.out.println("Invalied enter");
+//            break;
+//        }
+//    }
+//}
+
+
 
 
 
